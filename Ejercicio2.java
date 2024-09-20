@@ -16,7 +16,7 @@ public class Ejercicio2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Scanner sc= new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         float distancia;
         float velocidad;
         System.out.println("Introduzca una distancia(km): ");
